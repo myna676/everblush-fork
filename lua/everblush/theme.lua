@@ -45,7 +45,7 @@ function M.get(config)
         Include = { fg = p.color6 },
         Keyword = { fg = p.color6 },
         Label = { fg = p.color4 },
-        LineNr = { fg = p.color0, bg = background },
+        LineNr = { fg = p.color7, bg = background },
         Macro = { fg = p.color6 },
         MatchParen = { fg = p.color4, bg = background },
         ModeMsg = { fg = p.foreground, bg = background },
